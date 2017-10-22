@@ -1,1 +1,1 @@
-This folder should contain the ER Diagram of the database.
+ER Diagram of our database.
